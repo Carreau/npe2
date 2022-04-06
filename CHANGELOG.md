@@ -1,8 +1,8 @@
 # Changelog
 
-## [v0.3.0](https://github.com/napari/npe2/tree/v0.3.0) (2022-04-05)
+## [Unreleased](https://github.com/napari/npe2/tree/HEAD)
 
-[Full Changelog](https://github.com/napari/npe2/compare/v0.2.2...v0.3.0)
+[Full Changelog](https://github.com/napari/npe2/compare/v0.2.2...HEAD)
 
 **Implemented enhancements:**
 
@@ -17,6 +17,7 @@
 **Tests & CI:**
 
 - Fix black problem on pre-commit CI [\#147](https://github.com/napari/npe2/pull/147) ([Czaki](https://github.com/Czaki))
+- Fix ci for testing all plugins [\#134](https://github.com/napari/npe2/pull/134) ([tlambert03](https://github.com/tlambert03))
 - Add ci to test all plugins on PR label part1 [\#133](https://github.com/napari/npe2/pull/133) ([tlambert03](https://github.com/tlambert03))
 
 **Refactors:**
@@ -27,7 +28,7 @@
 
 **Merged pull requests:**
 
-- Fix ci for testing all plugins [\#134](https://github.com/napari/npe2/pull/134) ([tlambert03](https://github.com/tlambert03))
+- add v0.3.0 changelog [\#150](https://github.com/napari/npe2/pull/150) ([tlambert03](https://github.com/tlambert03))
 
 ## [v0.2.2](https://github.com/napari/npe2/tree/v0.2.2) (2022-03-14)
 
